@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/swilliams
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://swilliams.me
+  * I am swilliams (https://keybase.io/swilliams) on keybase.
+  * I have a public key with fingerprint 9A61 2380 B522 6B56 5BC8  938B 6B8A 69FD D619 766D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101b6ce12023c1de85625bf88ea97bae80f79dd63217eb1941a67f237197e633db40a",
+            "fingerprint": "9a612380b5226b565bc8938b6b8a69fdd619766d",
+            "host": "keybase.io",
+            "key_id": "6b8a69fdd619766d",
+            "kid": "0101b6ce12023c1de85625bf88ea97bae80f79dd63217eb1941a67f237197e633db40a",
+            "uid": "468e0814b86d8ed925468f53acdbfc00",
+            "username": "swilliams"
+        },
+        "revoke": {
+            "sig_ids": [
+                "57361160013d05fe63a0081eb41abda65f023310449868d177a1b92004341b4b0f"
+            ]
+        },
+        "service": {
+            "hostname": "swilliams.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1492560663,
+    "expire_in": 157680000,
+    "prev": "346c0044fb7889537e79546dcbdaa90f0674662277a68e2173e4c28969910a34",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.68
+Comment: https://keybase.io/crypto
+
+yMJjAnicrVJdaBRHHL/T+JHDYI2IJCDRCcEgl2NmZ3d29gSJWgV7WJGCqEk4ZnZm
+L2suu+fu5nIhWOiLHyDaiFai1H74qGCposaHEkPxAx9UEL9FRVEjKioiqDR2NrQv
+4qPzsszs7//7mvm7ZmIilew7Ujf2x/IfPyYvnH7Tk1j79tDsfsB90Qey/aBLjn9k
+Ucgwyne5AmQBRBBxYkukQQ3bSEhqEM3gDqWSWSZnkkLHtIQgWEOm5MjSESOmo2ET
+WaYkGAuuQwbSwHG9ggxKgetFitZiBGmYQm5oGuEGMbhNLUw54ZQRy1F8apwQoQY7
+/TCeUOY4C2XG9dWZ2uTH7X0G/4V994zT6YRKSJHOKRFUCksz1IljYGYL7tgQxsBQ
+Bh7rlgod9rrFosu6Q7ApDQJZ9rtkXGzoFpTrEGTbgGFighCBEGEBDUcJMqj4JVc2
+uGDEcJRtjKCuW5RQgUyTIW5pEOpYR1zn0AEdiltJll17nDyu6VP5jNqmQSnwI9/2
+i+pPZxSVsrGpqK8UI3slz//HkeeuJ9QdqYGyDELX90AWKaQduTEp0lVmAgnBaSAr
+JTeQeTdGGCahUK1YRpYVJdaJ6kPXHW5SahnYlKalyhK2isUs6EBi6oRomkqkOlXl
+Y6nbGrWIZSHIsA7iVBs9P5ZUPlkhDuQWPBb1BBJsGhlur0okU4nJkybEjzeRqv7q
+/yd99u7UxLG61U/lgVu53E8rm6bMbm0UbSf2XV7RuG3Z+rdplvI6ZkyfeL955y/T
+z2dr3IU3Rj5sbbzUPMFbZu5c3jo8f7B+7OmVlzUnSnuqg1lN27auqmJDXWcGxx43
+596dDq5tnvtrZcOrtpFnx3Nrp7bvn/NzdTEYLTd8M3D7Sctj97vVw+nDx0bXnLt5
+J7jYv2JaIVU7pb379cFdB/Zmni+JfqsbrTw5dW/A3tD5seHUlcq8vd/ubql5eHLy
+0ezZ3kzVzBfvFvxz/M+/Vi6tvZG8uqNh3aO7A9XFTN2Dxc+um1rrosHt30f9rfVj
+gbGlGXTUpmeee1hf+aF9S+59ejj7e6Jp3bV5XyeHmpL/AsppURY=
+=Hwp1
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/swilliams
+
+==================================================================
